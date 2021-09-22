@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **rahulc29/rahulc29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,15 +23,15 @@ My interests are varied and consist of low-level systems (such as old 8-bit syst
 
 ## Currently Working On 🔭
 
-# k8
+### k8
 k8 is a CHIP-8 emulator written in Kotlin/JVM. The emulator doesn't shy away from using Kotlin idiomatics and is imagined and constructed in Kotlin entirely. The entire emulator is written to be extensible and allow for at least two frontends - an android one and a JavaFX one for desktop environments. 
 
 ## Currently Learning 🌱
 
-# Golang
+### Golang
 I'm currently learning the Golang programming language and trying to internalise the philosophy and the paradigm that exists within the language. Golang is nothing like anything I've ever worked with, and therefore is making for a great challenge on an intellectual level.
 
-# DSA and Competitive Programming
+### DSA and Competitive Programming
 I'm currently working very hard to get better at DSA-based problems and trying to learn more about the mathematical details of problem-solving everyday.
 
 ## Contact Me 📫
