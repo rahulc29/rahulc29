@@ -34,6 +34,10 @@ I'm currently learning the Golang programming language and trying to internalise
 ### DSA and Competitive Programming
 I'm currently working very hard to get better at DSA-based problems and trying to learn more about the mathematical details of problem-solving everyday.
 
+## My Stats
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulc29)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Contact Me 📫
 E-Mail   : [Personal Mail](rahul29112002@gmail.com)
 LinkedIn : [Profile](https://www.linkedin.com/in/rahul-chhabra-452a3317b/)
