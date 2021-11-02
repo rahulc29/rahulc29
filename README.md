@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me ✨
-I'm Rahul Chhabra, a citizen of Geekland and an aspiring engineer of information technology.
+I'm Rahul Chhabra, a citizen of Geekland and a student of Information Technology at Indian Institute of Information Technology, Allahabad.
 My primary linguistic proficiency is in Kotlin, followed by Java, that is to say, I try to Kotlin-idiomatic code and refrain from "translating Java to Kotlin" in favour of "thinking in Kotlin". Besides, I use C++ for competitive programming.
 
 ## Currently Interested In ⚡
