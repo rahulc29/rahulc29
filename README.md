@@ -26,6 +26,9 @@ My interests are varied and consist of low-level systems (such as old 8-bit syst
 ### k8
 k8 is a CHIP-8 emulator written in Kotlin/JVM. The emulator doesn't shy away from using Kotlin idiomatics and is imagined and constructed in Kotlin entirely. The entire emulator is written to be extensible and allow for at least two frontends - an android one and a JavaFX one for desktop environments. 
 
+### kaleido
+Kaleido is a toy programming language compiler written in C++ to better understand compiler design in general and the LLVM infrastructure in particular. I aim to survive the entirety of the LLVM tutorials and if I do, I'll have a Turing complete programming language with `if-else`, `for`, `while`, functions, variable assignments and some sense of satisfaction.
+
 ## Currently Learning 🌱
 
 ### Golang
@@ -35,7 +38,8 @@ I'm currently learning the Golang programming language and trying to internalise
 I'm currently working very hard to get better at DSA-based problems and trying to learn more about the mathematical details of problem-solving everyday.
 
 ## My Stats
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulc29)](https://github.com/anuraghazra/github-readme-stats)
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulc29&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulc29)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Me 📫
 E-Mail   : [Personal Mail](rahul29112002@gmail.com)
