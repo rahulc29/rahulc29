@@ -29,7 +29,7 @@ Another interest I've recently developed is automata theory and compiler design.
 k8 is a CHIP-8 emulator written in Kotlin/JVM. The emulator doesn't shy away from using Kotlin idiomatics and is imagined and constructed in Kotlin entirely. The entire emulator is written to be extensible and allow for at least two frontends - an android one and a JavaFX one for desktop environments. 
 
 ### kaleido
-Kaleido is a toy programming language compiler written in C++ to better understand compiler design in general and the LLVM infrastructure in particular. I aim to survive the entirety of the LLVM tutorials and if I do, I'll have a Turing complete programming language with `if-else`, `for`, `while`, functions, variable assignments and some sense of satisfaction.
+Kaleido is a toy programming language compiler written in C++ to better understand compiler design in general and the LLVM infrastructure in particular. I aim to survive the entirety of the LLVM tutorials and if I do, I'll have a Turing complete programming language with `if-else`, `for`, `while`, functions, variable assignments and (hopefully) some sense of satisfaction.
 
 ## Currently Learning 🌱
 
