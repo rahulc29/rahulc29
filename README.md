@@ -21,6 +21,8 @@ My primary linguistic proficiency is in Kotlin, followed by Java, that is to say
 ## Currently Interested In ⚡
 My interests are varied and consist of low-level systems (such as old 8-bit systems, e.g. the NES and CHIP-8) and their emulation, the internal workings of operating systems, cryptography and network security, and given anything sufficiently complex and mathematical, there exists a time at which I'll develop an interest in it.
 
+Another interest I've recently developed is automata theory and compiler design. Compilers are _ridiculously_ complicated and difficult and that makes them a lot of fun. I'm currently studying a lot about compilation algorithms and it's honestly amazing.
+
 ## Currently Working On 🔭
 
 ### k8
