@@ -39,7 +39,6 @@ I'm currently working very hard to get better at DSA-based problems and trying t
 
 ## My Stats
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulc29&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulc29)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Me 📫
 E-Mail   : [Personal Mail](rahul29112002@gmail.com)
