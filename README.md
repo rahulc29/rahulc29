@@ -45,6 +45,5 @@ I'm currently working very hard to get better at DSA-based problems. I'm current
 
 ## Contact Me 📫
 
-E-Mail   : [![EMail Icon](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg) Personal Mail](rahul29112002@gmail.com)
-
-LinkedIn : [![LinkedIn Icon](https://i.stack.imgur.com/gVE0j.png) Profile](https://www.linkedin.com/in/rahul-chhabra-452a3317b/)
+[![EMail Icon](https://static.vecteezy.com/system/resources/thumbnails/002/293/604/small/mail-icon-with-long-shadow-black-on-white-background-simple-design-style-illustration-free-vector.jpg) Personal Mail](rahul29112002@gmail.com)
+[![LinkedIn Icon](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rahul-chhabra-452a3317b/)
