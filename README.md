@@ -47,4 +47,4 @@ I'm currently working very hard to get better at DSA-based problems. I'm current
 
 E-Mail   : [![EMail Icon](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg) Personal Mail](rahul29112002@gmail.com)
 
-LinkedIn : [Profile](https://www.linkedin.com/in/rahul-chhabra-452a3317b/)
+LinkedIn : [![LinkedIn Icon](https://i.stack.imgur.com/gVE0j.png) Profile](https://www.linkedin.com/in/rahul-chhabra-452a3317b/)
