@@ -44,5 +44,7 @@ I'm currently working very hard to get better at DSA-based problems. I'm current
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulc29&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Me 📫
-E-Mail   : [Personal Mail](rahul29112002@gmail.com)
+
+E-Mail   : [![EMail Icon](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg) Personal Mail](rahul29112002@gmail.com)
+
 LinkedIn : [Profile](https://www.linkedin.com/in/rahul-chhabra-452a3317b/)
