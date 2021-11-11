@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me ✨
-I'm Rahul Chhabra, a citizen of Geekland and a student of Information Technology at Indian Institute of Information Technology, Allahabad, batch of 2025.
+I'm Rahul Chhabra (he/him) , a citizen of Geekland and a student of Information Technology at Indian Institute of Information Technology, Allahabad, batch of 2025.
 
 I'm most comfortable in C++ and Kotlin, followed by Java. 
 
@@ -46,4 +46,5 @@ I'm currently working very hard to get better at DSA-based problems. I'm current
 ## Contact Me 📫
 
 [📧 Personal Mail](rahul29112002@gmail.com)
+
 [![LinkedIn Icon](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rahul-chhabra-452a3317b/)
