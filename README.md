@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ## About me ✨
 I'm Rahul Chhabra, a citizen of Geekland and a student of Information Technology at Indian Institute of Information Technology, Allahabad.
-My primary linguistic proficiency is in Kotlin, followed by Java, that is to say, I try to Kotlin-idiomatic code and refrain from "translating Java to Kotlin" in favour of "thinking in Kotlin". Besides, I use C++ for competitive programming.
+
+I'm most comfortable in C++ and Kotlin, followed by Java. 
 
 ## Currently Interested In ⚡
 My interests are varied and consist of low-level systems (such as old 8-bit systems, e.g. the NES and CHIP-8) and their emulation, the internal workings of operating systems, cryptography and network security, and given anything sufficiently complex and mathematical, there exists a time at which I'll develop an interest in it.
@@ -33,11 +34,11 @@ Kaleido is a toy programming language compiler written in C++ to better understa
 
 ## Currently Learning 🌱
 
-### Golang
-I'm currently learning the Golang programming language and trying to internalise the philosophy and the paradigm that exists within the language. Golang is nothing like anything I've ever worked with, and therefore is making for a great challenge on an intellectual level.
+### Rust
+I'm learning and oh my god it is so damn good. Imagine everything wrong with C++ (null unsafe, optional ownership, access to raw pointers) and now imagine it fixed. Ownership can be tricky if you don't use move semantics in C++ but is not all that bad. The Rust compiler is a pain to deal with sometimes but the error messages are helpful enough.
 
 ### DSA and Competitive Programming
-I'm currently working very hard to get better at DSA-based problems and trying to learn more about the mathematical details of problem-solving everyday.
+I'm currently working very hard to get better at DSA-based problems. I'm currently super into trees and graphs and have been solving a lot of problems related to them. To follow my CP progress, do checkout my [CP Repository](https://github.com/rahulc29/cp)
 
 ## My Stats
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulc29&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
