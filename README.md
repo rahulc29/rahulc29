@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me ✨
-I'm Rahul Chhabra, a citizen of Geekland and a student of Information Technology at Indian Institute of Information Technology, Allahabad.
+I'm Rahul Chhabra, a citizen of Geekland and a student of Information Technology at Indian Institute of Information Technology, Allahabad, batch of 2025.
 
 I'm most comfortable in C++ and Kotlin, followed by Java. 
 
