@@ -37,6 +37,9 @@ Kaleido is a toy programming language compiler written in C++ to better understa
 ### Rust
 I'm learning and oh my god it is so damn good. Imagine everything wrong with C++ (null unsafe, optional ownership, access to raw pointers) and now imagine it fixed. Ownership can be tricky if you don't use move semantics in C++ but is not all that bad. The Rust compiler is a pain to deal with sometimes but the error messages are helpful enough.
 
+### Cellular Automata
+Cellular automata are very simple automata with very simple transition functions that are nonetheless capable of producing heavily complex systems. Some of these elementary automata are in fact, shown to be capable of simulating a universal Turing machine (rule 110) and others, such as Conway's Game of Life, are capable of much wackier feats - the Game of Life can run within the Game of Life. I aim to write a simple albeit good (easy to explore CAs with, and small but performant) CA simulator in Rust; with a WebAssembly and general purpose frontend.
+
 ### DSA and Competitive Programming
 I'm currently working very hard to get better at DSA-based problems. I'm currently super into trees and graphs and have been solving a lot of problems related to them. To follow my CP progress, do checkout my [CP Repository](https://github.com/rahulc29/cp)
 
