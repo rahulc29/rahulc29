@@ -17,20 +17,12 @@ Here are some ideas to get you started:
 ## About me ✨
 I'm Rahul Chhabra (He/Him) , a citizen of Geekland and a student of Information Technology at Indian Institute of Information Technology, Allahabad, batch of 2025.
 
-I'm most comfortable in C++ and Kotlin, followed by Java. 
-
-## Currently Interested In ⚡
-My interests are varied and consist of low-level systems (such as old 8-bit systems, e.g. the NES and CHIP-8) and their emulation, the internal workings of operating systems, cryptography and network security, and given anything sufficiently complex and mathematical, there exists a time at which I'll develop an interest in it.
-
-Another interest I've recently developed is automata theory and compiler design. Compilers are _ridiculously_ complicated and difficult and that makes them a lot of fun. I'm currently studying a lot about compilation algorithms and it's honestly amazing.
+I'm most comfortable in C++ and Kotlin, followed by Rust.
 
 ## Currently Working On 🔭
 
-### k8
-k8 is a CHIP-8 emulator written in Kotlin/JVM. The emulator doesn't shy away from using Kotlin idiomatics and is imagined and constructed in Kotlin entirely. The entire emulator is written to be extensible and allow for at least two frontends - an android one and a JavaFX one for desktop environments. 
-
-### kaleido
-Kaleido is a toy programming language compiler written in C++ to better understand compiler design in general and the LLVM infrastructure in particular. I aim to survive the entirety of the LLVM tutorials and if I do, I'll have a Turing complete programming language with `if-else`, `for`, `while`, functions, variable assignments and (hopefully) some sense of satisfaction.
+### Nesys
+Nesys is an NES emulator I'm writing in Rust. It is a development exercise. It forces me to write better and more idiomatic Rust (the codebase will likely be much larger than anything I've dealt with). It's fun : the 6502 is a fun CPU to study and emulate. It'll be a long project but I'm also planning to port it to WebAssembly and therefore run in the ✨ _browser_ ✨.
 
 ## Currently Learning 🌱
 
@@ -49,5 +41,7 @@ I'm currently working very hard to get better at DSA-based problems. I'm current
 ## Contact Me 📫
 
 [📧 Personal Mail](rahul29112002@gmail.com)
+
+[📧 College Mail](iit2021096@iiita.ac.in)
 
 [![LinkedIn Icon](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rahul-chhabra-452a3317b/)
