@@ -25,12 +25,11 @@ I'm most comfortable in C++ and Kotlin, followed by Rust.
 Nesys is an NES emulator I'm writing in Rust. It is a development exercise. It forces me to write better and more idiomatic Rust (the codebase will likely be much larger than anything I've dealt with). It's fun : the 6502 is a fun CPU to study and emulate. It'll be a long project but I'm also planning to port it to WebAssembly and therefore run in the ✨ _browser_ ✨.
 
 ## Currently Learning 🌱
+### SICP and Scheme
+SICP stands for the "Structure and Interpretation of Computer Programs" and it's bloody ridiculously good. It is essentially a course in what I'd like to call "the essence of computation". There's no way to completely describe what it is - you'll just have to read the [text](https://web.mit.edu/6.001/6.037/sicp.pdf) yourself, or watch the lectures (available on MIT OCW).
 
-### Rust
-I'm learning and oh my god it is so damn good. Imagine everything wrong with C++ (null unsafe, optional ownership, access to raw pointers) and now imagine it fixed. Ownership can be tricky if you don't use move semantics in C++ but is not all that bad. The Rust compiler is a pain to deal with sometimes but the error messages are helpful enough.
-
-### Cellular Automata
-Cellular automata are very simple automata with very simple transition functions that are nonetheless capable of producing heavily complex systems. Some of these elementary automata are in fact, shown to be capable of simulating a universal Turing machine (rule 110) and others, such as Conway's Game of Life, are capable of much wackier feats - the Game of Life can run within the Game of Life. I aim to write a simple albeit good (easy to explore CAs with, and small but performant) CA simulator in Rust; with a WebAssembly and general purpose frontend.
+### Category Theory
+Category Theory is a branch of mathematics and computer science that allows us to mathematically model practically _any_ program. This allows us to write unimaginably robust and extensible code. I'm reading [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf/) and recemmend it to anybody who wishes to dive into the absolute depths of abstraction. Besides, it's good for the mathematical muscles! 😉
 
 ### DSA and Competitive Programming
 I'm currently working very hard to get better at DSA-based problems. I'm currently super into trees and graphs and have been solving a lot of problems related to them. To follow my CP progress, do checkout my [CP Repository](https://github.com/rahulc29/cp)
