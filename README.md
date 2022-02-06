@@ -35,7 +35,8 @@ Category Theory is a branch of mathematics and computer science that allows us t
 I'm currently working very hard to get better at DSA-based problems. I'm currently super into trees and graphs and have been solving a lot of problems related to them. To follow my CP progress, do checkout my [CP Repository](https://github.com/rahulc29/cp)
 
 ## My Stats
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulc29&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulc29&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulc29)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Me 📫
 
