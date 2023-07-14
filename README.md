@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 ## About me ✨
 I'm Rahul Chhabra (he/they), a student of Information Technology at Indian Institute of Information Technology, Allahabad, batch of 2025.
 
-## Suggestions ⚡
-
-Once upon a time I was introduced to the world of functional programming by the wonderful [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) and I've not gotten out of the rabbit hole since. That book changed my brain forever and I don't think there's any way I will ever be able to thank the authors enough.
-
 ## Currently Working On 🔭
 
 ### Scheme to JavaScript Compiler
@@ -44,6 +40,20 @@ Coalgebras are a beautiful dual to algebras. They capture the essence of dynamic
 ### Database Theory
 
 This is a bit of a todo. There are many cool connections between category theory and databases (of the relational kind). Besides I do not yet understand how practical databases minimise disc IO calls and how would one go about formally proving the strategies as optimal? I wish to explore all these questions.
+
+## Suggestions ⚡
+
+Once upon a time I was introduced to the world of functional programming by the wonderful [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) and I've not gotten out of the rabbit hole since. That book changed my brain forever and I don't think there's any way I will ever be able to thank the authors enough.
+
+Another book that was life changing in a very similar way is [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf). This book taught me about the mathematical aspects of programming for the first time. I cannot recommend this book enough. If you've ever written a single line of code, this knowledge deserves to possess you.
+
+Wadler's [Programming Language Foundations in Agda](https://plfa.github.io/) taught me Agda and programming language semantics and it is extremely accessible to anybody with no formal training in any related field.
+
+Robert Sedgewick's "Algorithms" is another classic. For one thing, the proofs are very well presented. Secondly, it is, in my opinion, a lot more rigourous with the mathematics.
+
+[Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) is another classic and was so helpful when I was studying operating systems. It is an absolutely beautiful text.
+
+I generally prefer open source and free texts - knowledge is not be imprisoned.
 
 ## My Stats
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulc29&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
