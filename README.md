@@ -15,24 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me ✨
-I'm Rahul Chhabra (He/Him) , a citizen of Geekland and a student of Information Technology at Indian Institute of Information Technology, Allahabad, batch of 2025.
+I'm Rahul Chhabra (he/they), a student of Information Technology at Indian Institute of Information Technology, Allahabad, batch of 2025.
 
-I'm most comfortable in C++ and Kotlin, followed by Rust.
+## Suggestions ⚡
+
+Once upon a time I was introduced to the world of functional programming by the wonderful [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) and I've not gotten out of the rabbit hole since. That book changed my brain forever and I don't think there's any way I will ever be able to thank the authors enough.
 
 ## Currently Working On 🔭
 
-### Nesys
-Nesys is an NES emulator I'm writing in Rust. It is a development exercise. It forces me to write better and more idiomatic Rust (the codebase will likely be much larger than anything I've dealt with). It's fun : the 6502 is a fun CPU to study and emulate. It'll be a long project but I'm also planning to port it to WebAssembly and therefore run in the ✨ _browser_ ✨.
+### Scheme to JavaScript Compiler
+
+Brendan Eich, the inventor of Javascript once commented how Scheme was the original source of inspiration and how if it weren't for management pressure and lack of time - Javascript would be extremely similar to Scheme. So I thought, why not just cut to the chase and use Scheme directly? This project aims to achieve just that. Javascript was not meant to be written by humans, as I have come to discover, it was barely meant to be written by compilers either. 
+
+### Formalisation in Cubical Type Theory
+
+Currently only [the formalisation of regular languages' trie representation](https://github.com/rahulc29/regular-languages). The trie representation comes from the coalgebraic interpretation of automata. I hope to extend Traytel's original representation to probabilistic and weighted automata. Of course, I'm not yet sure how I will possibly encode probability theory in cubical type theory since currently no real library for it exists. It would be a massive pain to have to write one myself.
 
 ## Currently Learning 🌱
-### SICP and Scheme
-SICP stands for the "Structure and Interpretation of Computer Programs" and it's bloody ridiculously good. It is essentially a course in what I'd like to call "the essence of computation". There's no way to completely describe what it is - you'll just have to read the [text](https://web.mit.edu/6.001/6.037/sicp.pdf) yourself, or watch the lectures (available on MIT OCW).
 
-### Category Theory
-Category Theory is a branch of mathematics and computer science that allows us to mathematically model practically _any_ program. This allows us to write unimaginably robust and extensible code. I'm reading [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf/) and recemmend it to anybody who wishes to dive into the absolute depths of abstraction. Besides, it's good for the mathematical muscles! 😉
+### Cubical Type Theory
 
-### DSA and Competitive Programming
-I'm currently working very hard to get better at DSA-based problems. I'm currently super into trees and graphs and have been solving a lot of problems related to them. To follow my CP progress, do checkout my [CP Repository](https://github.com/rahulc29/cp)
+Arguably the most beautiful thing I have ever studied, cubical type theory is the constructive model of homotopy type theory (Martin-Lof's type theory extended with univalence axiom and higher inductive types). Higher inductive types are so unimaginably powerful - I intend to create a project where I use a quotient type (a kind of higher inductive type) to have semantic equivalences quotiented from the abstract syntax trees. It's unlikely I will be able to find the time anytime soon.
+
+### Coalgebra Theory
+
+Coalgebras are a beautiful dual to algebras. They capture the essence of dynamical systems so beautifully well it is insane. Besides, I also plan to study related stuff like process theory and non-well-founded set theory.
+
+### Database Theory
+
+This is a bit of a todo. There are many cool connections between category theory and databases (of the relational kind). Besides I do not yet understand how practical databases minimise disc IO calls and how would one go about formally proving the strategies as optimal? I wish to explore all these questions.
 
 ## My Stats
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulc29&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
