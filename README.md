@@ -23,23 +23,31 @@ I'm Rahul Chhabra (he/they), a student of Information Technology at Indian Insti
 
 Brendan Eich, the inventor of Javascript once commented how Scheme was the original source of inspiration and how if it weren't for management pressure and lack of time - Javascript would be extremely similar to Scheme. So I thought, why not just cut to the chase and use Scheme directly? This project aims to achieve just that. Javascript was not meant to be written by humans, as I have come to discover, it was barely meant to be written by compilers either. 
 
-### Formalisation in Cubical Type Theory
+### Formalisation in Type Theory
 
-Currently only [the formalisation of regular languages' trie representation](https://github.com/rahulc29/regular-languages). The trie representation comes from the coalgebraic interpretation of automata. I hope to extend Traytel's original representation to probabilistic and weighted automata. Of course, I'm not yet sure how I will possibly encode probability theory in cubical type theory since currently no real library for it exists. It would be a massive pain to have to write one myself.
+My formalisation interests include : 
+
+1. Modal and temporal logics - In particular, the relationship between temporal logics and functional reactive programs.
+2. General recursion in type theory - This includes the free monad and giving general recursive programs (written in, say, Agda) semantics using monad homomorphisms. Cool stuff.
+3. Automata and Coalgebra.
 
 ## Currently Learning 🌱
 
 ### Cubical Type Theory
 
-Arguably the most beautiful thing I have ever studied, cubical type theory is the constructive model of homotopy type theory (Martin-Lof's type theory extended with univalence axiom and higher inductive types). Higher inductive types are so unimaginably powerful - I intend to create a project where I use a quotient type (a kind of higher inductive type) to have semantic equivalences quotiented from the abstract syntax trees. It's unlikely I will be able to find the time anytime soon.
+Arguably the most beautiful thing I have ever studied, cubical type theory is the constructive model of homotopy type theory (Martin-Lof's type theory extended with univalence axiom and higher inductive types). Higher inductive types are so unimaginably powerful - I absolutely love them. Their recursion and induction principles can be goofy if one is not careful. 
 
 ### Coalgebra Theory
 
 Coalgebras are a beautiful dual to algebras. They capture the essence of dynamical systems so beautifully well it is insane. Besides, I also plan to study related stuff like process theory and non-well-founded set theory.
 
-### Database Theory
+### Formal Topology
 
-This is a bit of a todo. There are many cool connections between category theory and databases (of the relational kind). Besides I do not yet understand how practical databases minimise disc IO calls and how would one go about formally proving the strategies as optimal? I wish to explore all these questions.
+Formal topology develops topology within a constructive setting. As such, it can be implemented in a language like Agda. 
+
+### Non-Interference 
+
+Non-interference involves having a `high` and `low` security levels and it is possible to write compilers that ensure that security constraints are respected. One can even go ahead and prove the correctness of such a compiler. See [ayberkt/simplc](https://github.com/ayberkt/simplc).
 
 ## Suggestions ⚡
 
