@@ -23,7 +23,7 @@ Much of my work right now is on my [realizability project](https://github.com/ra
 
 ## Contact Me 📫
 
-Toot me at [![Mathstodon](https://static-00.iconduck.com/assets.00/mastodon-icon-480x512-ua0dmwia.png) Mathstodon](https://mathstodon.xyz/@rahulc29)
+Toot me at [![Mathstodon](https://avatars.githubusercontent.com/u/24979032?s=48&v=4) Mathstodon](https://mathstodon.xyz/@rahulc29)
 
 [📧 Institute Mail](iit2021096@iiita.ac.in)
 
